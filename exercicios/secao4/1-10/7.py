@@ -1,4 +1,4 @@
-print('#7')
+print('#7\n')
 
 fahrenheit = float(input())
 celsius = 5*(fahrenheit - 32)/9

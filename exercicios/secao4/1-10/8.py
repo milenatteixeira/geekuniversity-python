@@ -1,4 +1,4 @@
-print('#8')
+print('#8\n')
 
 kelvin = float(input())
 celsius = kelvin - 273.15
